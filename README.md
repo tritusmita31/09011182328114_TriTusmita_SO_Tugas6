@@ -57,7 +57,7 @@ b. Eksperimen hasil PS1 : $ PS1=“! > “ 69 > PS1=”\d > “ Mon Sep 23 > PS1
 
 # 3. Logout
 Edit file .bash_logout, tampilkan pesan dan tahan selama 5 detik, sebelum eksekusi logout Echo “Terima kasih atas sesi yang diberikan” Sleep 5 clear
-
+hasil setelah diclear
 ![soo20](https://github.com/user-attachments/assets/79212ce6-12f1-4336-8507-d2ab5ab6a8fe)
 
 # 4. Bash Script
