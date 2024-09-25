@@ -51,6 +51,8 @@ a. Edit file .bash_profile, ganti prompt PS1 dengan ‘>’. Instruksi export di
 
 ![soo18](https://github.com/user-attachments/assets/c196756c-602b-4eb4-849e-4bb980e73183)
 
+b. Eksperimen hasil PS1 : $ PS1=“! > “ 69 > PS1=”\d > “ Mon Sep 23 > PS1=”\t > “ 10:10:20 > PS1=”Saya=\u > “ Saya=mahasiswa > PS1=”\w >” ~ > PS1=\h >”
+
 ![soo19](https://github.com/user-attachments/assets/69425a68-529b-42ad-9fd8-e35347b12e73)
 
 ![soo20](https://github.com/user-attachments/assets/79212ce6-12f1-4336-8507-d2ab5ab6a8fe)
