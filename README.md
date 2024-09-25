@@ -37,6 +37,9 @@ bersangkutan.
 
 ![soo15](https://github.com/user-attachments/assets/3160cef2-ca22-4b2c-a0ea-566f82d983fe)
 
+
+c. Jalankan instruksi subtitute user, kemudian keluar dengan perintah exit sebagai berikut: $ su mahasiswa $ exit kemudian gunakan opsi – sebagai berikut : $ su – mahasiswa $ exit Jelaskan perbedaan kedua utilitas tersebut.
+
 ![soo16](https://github.com/user-attachments/assets/684830e6-cf1c-484b-af31-d6857350bece)
 
 ![soo17](https://github.com/user-attachments/assets/1e2518a0-41ca-4024-912a-358841d1ff52)
