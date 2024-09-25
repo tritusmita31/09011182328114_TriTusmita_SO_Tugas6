@@ -1,3 +1,7 @@
+1. Eksekusi seluruh profile yang ada :  
+a.  Edit file profile /etc/profile dan tampilkan pesan sebagai berikut :  
+echo “Profile dari /etc/profile”  
+
 ![soo1](https://github.com/user-attachments/assets/ff79041b-0909-4ea6-a984-35df13ca01db)
 
 ![soo2](https://github.com/user-attachments/assets/72ce70d7-8fe3-439e-829f-40dd3fecae0a)
