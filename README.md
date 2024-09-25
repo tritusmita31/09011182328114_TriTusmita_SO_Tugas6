@@ -114,4 +114,7 @@ d. Stop program background dengan utilitas kil $ ps x $ kill [Nomor PID]
 
 ![soo40](https://github.com/user-attachments/assets/2682c343-70e3-463e-ab03-c3e74a18cc41)
 
+e.  Ulangi instruksi dengan prefix “ls”  
+$ !ls 
+
 ![soo41](https://github.com/user-attachments/assets/002fafe0-7459-4f3f-b07c-3e3c45f860af)
