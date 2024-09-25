@@ -113,9 +113,19 @@ $ h
 
 ![soo37](https://github.com/user-attachments/assets/70f42f12-ac3b-4a74-a712-1afbb790d992)
 
+b. Gunakan fasilitas history dengan mengedit instruksi baris ke 5 dari instruksi yang terakhir 
+dilakukan  
+$ !-5  
+
 ![soo38](https://github.com/user-attachments/assets/02050537-006b-4383-8455-483648d0dce4)
 
+c. Ulangi instruksi yang terakhir.  Gunakan juga ^P dan ^N untuk bernavigasi pada history bufer  
+$ !! 
+
 ![soo39](https://github.com/user-attachments/assets/6e1d2a26-c610-4d92-a20c-ab319b114ab4)
+
+d.  Ulangi instruksi pada history bufer nomor 150  
+$ !150 
 
 ![soo40](https://github.com/user-attachments/assets/2682c343-70e3-463e-ab03-c3e74a18cc41)
 
