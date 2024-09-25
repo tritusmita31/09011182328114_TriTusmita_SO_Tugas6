@@ -55,6 +55,9 @@ b. Eksperimen hasil PS1 : $ PS1=“! > “ 69 > PS1=”\d > “ Mon Sep 23 > PS1
 
 ![soo19](https://github.com/user-attachments/assets/69425a68-529b-42ad-9fd8-e35347b12e73)
 
+# 3. Logout
+Edit file .bash_logout, tampilkan pesan dan tahan selama 5 detik, sebelum eksekusi logout Echo “Terima kasih atas sesi yang diberikan” Sleep 5 clear
+
 ![soo20](https://github.com/user-attachments/assets/79212ce6-12f1-4336-8507-d2ab5ab6a8fe)
 
 ![soo21](https://github.com/user-attachments/assets/d5b96f12-651f-4916-93d4-1b70b57efbfb)
