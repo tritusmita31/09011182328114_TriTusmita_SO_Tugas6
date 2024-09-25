@@ -9,6 +9,9 @@ echo “Profile dari /etc/profile”
 ![soo3](https://github.com/user-attachments/assets/1ea8e27d-07f0-4e6d-9092-bc2c0ee6c3d3)
 
 B. Tentukan semua profile yang terkait dengan pengguna, buat file, dan edit file tersebut, dan tambahkan instruksi echo pada setiap file.
+echo “Profile dari .bash_profile”  
+Lakukan hal yang sama untuk file lainnya, sesuaikan tampilan dengan nama file yang 
+bersangkutan. 
 
 ![soo4](https://github.com/user-attachments/assets/e743e924-ae0e-45cd-a2b1-97fa95e0e7a3)
 
