@@ -1,4 +1,5 @@
-1. Eksekusi seluruh profile yang ada :  
+# 1. Eksekusi seluruh profile yang ada
+
 a.  Edit file profile /etc/profile dan tampilkan pesan sebagai berikut :  
 echo “Profile dari /etc/profile”  
 
@@ -8,7 +9,7 @@ echo “Profile dari /etc/profile”
 
 ![soo3](https://github.com/user-attachments/assets/1ea8e27d-07f0-4e6d-9092-bc2c0ee6c3d3)
 
-B. Tentukan semua profile yang terkait dengan pengguna, buat file, dan edit file tersebut, dan tambahkan instruksi echo pada setiap file.
+b. Tentukan semua profile yang terkait dengan pengguna, buat file, dan edit file tersebut, dan tambahkan instruksi echo pada setiap file.
 echo “Profile dari .bash_profile”  
 Lakukan hal yang sama untuk file lainnya, sesuaikan tampilan dengan nama file yang 
 bersangkutan. 
@@ -41,6 +42,10 @@ bersangkutan.
 c. Jalankan instruksi subtitute user, kemudian keluar dengan perintah exit sebagai berikut: $ su mahasiswa $ exit kemudian gunakan opsi – sebagai berikut : $ su – mahasiswa $ exit Jelaskan perbedaan kedua utilitas tersebut.
 
 ![soo16](https://github.com/user-attachments/assets/684830e6-cf1c-484b-af31-d6857350bece)
+
+# 2. Prompt String (PS)
+
+a. Edit file .bash_profile, ganti prompt PS1 dengan ‘>’. Instruksi export diperlukan dengan parameter nama variable tersebut, agar perubahan variable PS1 dikenal oleh semua shell PS1=‟> „ export PS1
 
 ![soo17](https://github.com/user-attachments/assets/1e2518a0-41ca-4024-912a-358841d1ff52)
 
