@@ -75,6 +75,8 @@ a. Buat 3 buah script p1.sh, p2.sh, p3.sh dengan isi masing-masing : p1.sh #! /b
 
 ![soo26](https://github.com/user-attachments/assets/90bea93a-99e1-4a7e-8094-5b3f83ada843)
 
+b. Jalankan script tersebut sebagai berikut : $ ./p1.sh ; ./p3.sh ; ./p2.sh $ ./p1.sh & $ ./p1.sh $ ./p2.sh & ./p3.sh & $ ( ./p1.sh ; ./p3.sh ) &
+
 ![soo27](https://github.com/user-attachments/assets/5233aac9-ef0d-43b4-8064-e07fd2cb5ce2)
 
 ![soo28](https://github.com/user-attachments/assets/fdbbc966-5d88-4e6d-99b9-85ec17ca184d)
