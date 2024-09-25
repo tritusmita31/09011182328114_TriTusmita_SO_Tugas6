@@ -8,16 +8,7 @@ echo “Profile dari /etc/profile”
 
 ![soo3](https://github.com/user-attachments/assets/1ea8e27d-07f0-4e6d-9092-bc2c0ee6c3d3)
 
-b.  Asumsi nama anda stD02001, maka edit semua profile yang ada yaitu :  
-/home/stD02001/.bash_profile  
-/home/. stD02001/.bash_login  
-/home/mahasiswa/.profile  
-/home/mahasiswa/.bashrc  
-Ganti nama /home/mahasiswa dengan nama anda sendiri. Pada setiap  
-file tersebut, cantumkan instruksi echo, misalnya pada /home/ mahasiswa/.bash_profile :  
-echo “Profile dari .bash_profile”  
-Lakukan hal yang sama untuk file lainnya, sesuaikan tampilan dengan nama file yang 
-bersangkutan.  
+B. Tentukan semua profile yang terkait dengan pengguna, buat file, dan edit file tersebut, dan tambahkan instruksi echo pada setiap file.
 
 ![soo4](https://github.com/user-attachments/assets/e743e924-ae0e-45cd-a2b1-97fa95e0e7a3)
 
