@@ -60,6 +60,9 @@ Edit file .bash_logout, tampilkan pesan dan tahan selama 5 detik, sebelum ekseku
 
 ![soo20](https://github.com/user-attachments/assets/79212ce6-12f1-4336-8507-d2ab5ab6a8fe)
 
+# 4. Bash Script
+a. Buat 3 buah script p1.sh, p2.sh, p3.sh dengan isi masing-masing : p1.sh #! /bin/bash echo “Program p1” ls –l p2.sh #! /bin/bash echo “Program p2” who p3.sh #! /bin/bash echo “Program p3” ps x
+
 ![soo21](https://github.com/user-attachments/assets/d5b96f12-651f-4916-93d4-1b70b57efbfb)
 
 ![soo22](https://github.com/user-attachments/assets/10abd1ce-100b-4f01-8814-d89e885a0d07)
