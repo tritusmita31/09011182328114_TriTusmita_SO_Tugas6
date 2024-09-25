@@ -106,6 +106,11 @@ d. Stop program background dengan utilitas kil $ ps x $ kill [Nomor PID]
 
 ![soo36](https://github.com/user-attachments/assets/7e511dbd-f578-424e-9212-d97d046b31ad)
 
+# 6. History
+a. Ganti nilai HISTSIZE dari 1000 menjadi 20  
+$ HISTSIZE=20  
+$ h  
+
 ![soo37](https://github.com/user-attachments/assets/70f42f12-ac3b-4a74-a712-1afbb790d992)
 
 ![soo38](https://github.com/user-attachments/assets/02050537-006b-4383-8455-483648d0dce4)
