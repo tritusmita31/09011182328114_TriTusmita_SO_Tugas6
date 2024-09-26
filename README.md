@@ -94,6 +94,8 @@ b. Jalankan script tersebut sebagai berikut : $ ./p1.sh ; ./p3.sh ; ./p2.sh $ ./
 
 ![soo30](https://github.com/user-attachments/assets/2c1d2865-4ab1-4132-bc31-74b3e42171f3)
 
+./p1.sh ; ./p3.sh & --> berfungsi mengelompokkan program 1 dan program 3 lalu menjalankan di background.
+
 ![soo31](https://github.com/user-attachments/assets/85962f8e-8eb0-420c-80e4-ed4350836c8e)
 
 # 5. Jobs
