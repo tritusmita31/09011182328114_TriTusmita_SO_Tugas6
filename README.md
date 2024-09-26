@@ -66,13 +66,19 @@ a. Buat 3 buah script p1.sh, p2.sh, p3.sh dengan isi masing-masing : p1.sh #! /b
 
 ![soo21](https://github.com/user-attachments/assets/d5b96f12-651f-4916-93d4-1b70b57efbfb)
 
+program p1 berfungsi menampilkan daftar direktori yang sedang aktif.
+
 ![soo22](https://github.com/user-attachments/assets/10abd1ce-100b-4f01-8814-d89e885a0d07)
 
 ![soo23](https://github.com/user-attachments/assets/88ae5e3c-bd2b-408d-90af-f6bb90370113)
 
+program p2 berfungsi menampilkan daftar user yang sedang lodgin.
+
 ![soo24](https://github.com/user-attachments/assets/e625e3ce-b4ec-4d91-9bcb-aa541b275644)
 
 ![soo25](https://github.com/user-attachments/assets/bc253ceb-cc75-49e6-9a54-47e61e96452a)
+
+program p1 berfungsi menampilkan proses yang sedang berjalan.
 
 ![soo26](https://github.com/user-attachments/assets/90bea93a-99e1-4a7e-8094-5b3f83ada843)
 
