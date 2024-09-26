@@ -100,9 +100,12 @@ b. Jalankan sebagai background; kemudian jalankan satu program (utilitas find) d
 
 c. Jadikan program ke 1 sebagai foreground, tekan ^Z dan kembalikan program tersebut ke background $ fg %1 $ bg
 
-![soo35](https://github.com/user-attachments/assets/ed390161-2b1e-4325-b8ab-d30853359e3a)
+![soo34](https://github.com/user-attachments/assets/aea8e5d6-2f23-41c3-af44-9d7d251f928f)
+
 
 d. Stop program background dengan utilitas kil $ ps x $ kill [Nomor PID]
+
+![soo35](https://github.com/user-attachments/assets/ed390161-2b1e-4325-b8ab-d30853359e3a)
 
 ![soo36](https://github.com/user-attachments/assets/7e511dbd-f578-424e-9212-d97d046b31ad)
 
