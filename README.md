@@ -87,8 +87,6 @@ b. Jalankan script tersebut sebagai berikut : $ ./p1.sh ; ./p3.sh ; ./p2.sh $ ./
 
 ![soo31](https://github.com/user-attachments/assets/85962f8e-8eb0-420c-80e4-ed4350836c8e)
 
-![soo32](https://github.com/user-attachments/assets/aa8f6a8c-23c4-4539-8798-c3989b89b3b0)
-
 # 5. Jobs
 a. Buat shell-script yang melakukan loop dengan nama pwaktu.sh, setiap 10 detik, kemudian menyimpan tanggal dan jam pada file hasil. #!/bin/bash while [ true ] do date >> hasil sleep 10 done
 
@@ -97,8 +95,6 @@ a. Buat shell-script yang melakukan loop dengan nama pwaktu.sh, setiap 10 detik,
 b. Jalankan sebagai background; kemudian jalankan satu program (utilitas find) di background sebagai berikut : $ jobs $ find / -print > files 2>/dev/null & $ jobs
 
 ![soo32](https://github.com/user-attachments/assets/aa8f6a8c-23c4-4539-8798-c3989b89b3b0)
-
-![soo34](https://github.com/user-attachments/assets/aea8e5d6-2f23-41c3-af44-9d7d251f928f)
 
 c. Jadikan program ke 1 sebagai foreground, tekan ^Z dan kembalikan program tersebut ke background $ fg %1 $ bg
 
