@@ -86,6 +86,8 @@ b. Jalankan script tersebut sebagai berikut : $ ./p1.sh ; ./p3.sh ; ./p2.sh $ ./
 
 ![soo27](https://github.com/user-attachments/assets/5233aac9-ef0d-43b4-8064-e07fd2cb5ce2)
 
+ ./p1.sh ; ./p2.sh ; ./p3.sh  --> menjalankan program secara berurutan.
+ 
 ![soo28](https://github.com/user-attachments/assets/fdbbc966-5d88-4e6d-99b9-85ec17ca184d)
 
 ![soo29](https://github.com/user-attachments/assets/8c5f3fab-b146-4f17-a97c-c850755f31fc)
