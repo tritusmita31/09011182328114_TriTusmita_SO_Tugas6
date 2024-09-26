@@ -90,6 +90,8 @@ b. Jalankan script tersebut sebagai berikut : $ ./p1.sh ; ./p3.sh ; ./p2.sh $ ./
  
 ![soo28](https://github.com/user-attachments/assets/fdbbc966-5d88-4e6d-99b9-85ec17ca184d)
 
+./p1.sh &  --> berfungsi menjalankan program 1 di background.
+
 ![soo29](https://github.com/user-attachments/assets/8c5f3fab-b146-4f17-a97c-c850755f31fc)
 
 ![soo30](https://github.com/user-attachments/assets/2c1d2865-4ab1-4132-bc31-74b3e42171f3)
